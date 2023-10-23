@@ -1,0 +1,3 @@
+# Ignorar o diretório de ambiente virtual
+venv/
+.idea/
